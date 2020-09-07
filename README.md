@@ -3,4 +3,4 @@ A simple Python script that bruteforces a password protected ZIP file from any d
 
 The script needs to be run from command line with syntax
 
-python zip_cracker.py <zip file> <dictionary file>
+python zip_cracker.py zip_file dictionary file
